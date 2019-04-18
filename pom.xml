@@ -6,7 +6,7 @@
 
     <groupId>com.basaki</groupId>
     <artifactId>jwt-examples</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
 
     <dependencies>
         <dependency>
@@ -57,7 +57,7 @@
         <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-core</artifactId>
-            <version>4.0.3.RELEASE</version>
+            <version>4.2.12.RELEASE</version>
         </dependency>
 
         <dependency>
